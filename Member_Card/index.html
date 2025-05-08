@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Member Card</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main>
+        <h1 class="title">Meet the team</h1>
+        <h2 class="subtitle">These people work on making our product the best</h2>
+        <section id="team_container">
+            <!-- type="text/x-handlebars-template" == handlebar identifer -->
+            <script id="team_template" type="text/x-handlebars-template">
+                {{#each this}}
+                    <div class="card">
+                        <img src="{{formatImg image}}" alt="{{name}}">
+                        <div class="card_info">
+                            <p class = "title">{{name}}</p>
+                            <p class = "subtitle">{{role}}</p>
+                            <p class = "text">{{statement}}</p>
+                        </div>
+                    </div>
+                {{/each}}
+            </script>
+        </section>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.min.js"></script>
+    <Script src="main.js"></Script>
+</body>
+
+</html>

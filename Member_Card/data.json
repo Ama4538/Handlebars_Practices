@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sam Monic",
+        "role": "Founder",
+        "statement": "Driven by vision, building from the ground up.",
+        "image": "sam_monic.jpg"
+    },
+    {
+        "name": "Rhea Chen",
+        "role": "Product Designer",
+        "statement": "Designing intuitive experiences with the user in mind.",
+        "image": "rhea_chen.jpg"
+    },
+    {
+        "name": "Liam Patel",
+        "role": "Lead Developer",
+        "statement": "Turning ideas into fast, scalable code.",
+        "image": "liam_patel.jpg"
+    },
+    {
+        "name": "Tanya Brooks",
+        "role": "Marketing Strategist",
+        "statement": "Connecting products to people with precision.",
+        "image": "tanya_brooks.jpg"
+    }
+]
