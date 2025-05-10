@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Dashboard</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <main>
+        <h1 class="title">Task</h1>
+        <div id="total_container"></div>
+        <section id="info_container"></section>
+        <section class="filter_container">
+            <div class="drop_down">
+                <p class="text">Priority</p>
+                <div class="inner_drop_down">
+                    <button class="text priority_select" value="low" data-selected="false">Low</button>
+                    <button class="text priority_select" value="medium" data-selected="false">Medium</button>
+                    <button class="text priority_select" value="high" data-selected="false">High</button>
+                    <button class="text priority_select" value="critical" data-selected="false">Critical</button>
+                </div>
+            </div>
+            <div class="drop_down">
+                <p class="text">Status</p>
+                <div class="inner_drop_down">
+                    <button class="text status_select" value="pending" data-selected="false">Pending</button>
+                    <button class="text status_select" value="in progress" data-selected="false">In Progress</button>
+                    <button class="text status_select" value="complete" data-selected="false">Complete</button>
+                    <button class="text status_select" value="overdue" data-selected="false">Overdue</button>
+                </div>
+            </div>
+        </section>
+        <section class="task_container">
+            <div class="task_header">
+                <p class="text">Project Name</p>
+                <p class="text">Status</p>
+                <p class="text">Due Date</p>
+                <p class="text">Priority</p>
+                <p class="text">Time Spent</p>
+                <p class="text">Estimation</p>
+            </div>
+            <div id="task_container"></div>
+        </section>
+    </main>
+
+    <!-- Template -->
+    <!-- Task -->
+    <script id="task_template" type="text/x-handlebars-template">
+                {{#each this}}
+                <div class="task">
+                    <div class="task_main">
+                        <p class="title">{{title}}</p>
+                        <p class="subtext">{{subtitle}}</p>
+                    </div>
+                    <p class="text" data-status="{{capitalize status}}">{{capitalize status}}</p>
+                    <p class="text">{{due_date}}</p>
+                    <p class="text" data-priority="{{capitalize priority}}">{{capitalize priority}}</p>
+                    <p class="text">{{time_spent}}</p>
+                    <p class="text">{{time_estimation}}</p>
+                </div>
+                {{/each}}
+            </script>
+    <!-- Info -->
+    <script id="info_template" type="text/x-handlebars-template">
+                {{#each this}}
+                <div class="info_card">
+                    <p class="title">{{amount}}</p>
+                    <p class="subtext">{{capitalize type}}</p>
+                </div>
+                {{/each}}
+            </script>
+    <!-- Counter -->
+    <script id="total_template" type="text/x-handlebars-template">
+            <p class="subtext" >You have {{count}} tasks</p>
+        </script>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.min.js"></script>
+    <script src="./main.js"></script>
+</body>
+
+</html>

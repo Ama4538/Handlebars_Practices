@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Write project proposal",
+    "subtitle": "Client: Acme Corp",
+    "status": "in progress",
+    "due_date": "2025-05-12",
+    "priority": "high",
+    "time_spent": "2h",
+    "time_estimation": "5h"
+  },
+  {
+    "title": "Design login UI",
+    "subtitle": "Frontend Sprint",
+    "status": "complete",
+    "due_date": "2025-05-01",
+    "priority": "medium",
+    "time_spent": "4h",
+    "time_estimation": "4h"
+  },
+  {
+    "title": "Review pull request #42",
+    "subtitle": "GitHub Repo",
+    "status": "overdue",
+    "due_date": "2025-05-07",
+    "priority": "high",
+    "time_spent": "1h",
+    "time_estimation": "2h"
+  },
+  {
+    "title": "Fix payment gateway bug",
+    "subtitle": "Stripe Integration",
+    "status": "in progress",
+    "due_date": "2025-05-10",
+    "priority": "critical",
+    "time_spent": "3h",
+    "time_estimation": "6h"
+  },
+  {
+    "title": "Update README",
+    "subtitle": "Dev Documentation",
+    "status": "pending",
+    "due_date": "2025-05-15",
+    "priority": "low",
+    "time_spent": "0h",
+    "time_estimation": "1h"
+  },
+  {
+    "title": "Create onboarding flow",
+    "subtitle": "New User Experience",
+    "status": "in progress",
+    "due_date": "2025-05-13",
+    "priority": "high",
+    "time_spent": "2h",
+    "time_estimation": "5h"
+  },
+  {
+    "title": "Schedule team meeting",
+    "subtitle": "Weekly sync-up",
+    "status": "complete",
+    "due_date": "2025-05-06",
+    "priority": "medium",
+    "time_spent": "0.5h",
+    "time_estimation": "0.5h"
+  },
+  {
+    "title": "Design mobile nav",
+    "subtitle": "Responsive layout",
+    "status": "pending",
+    "due_date": "2025-05-20",
+    "priority": "medium",
+    "time_spent": "0h",
+    "time_estimation": "3h"
+  },
+  {
+    "title": "Optimize database queries",
+    "subtitle": "Backend Performance",
+    "status": "in progress",
+    "due_date": "2025-05-14",
+    "priority": "high",
+    "time_spent": "2h",
+    "time_estimation": "4h"
+  },
+  {
+    "title": "Create API docs",
+    "subtitle": "External Partners",
+    "status": "pending",
+    "due_date": "2025-05-18",
+    "priority": "medium",
+    "time_spent": "0h",
+    "time_estimation": "3h"
+  },
+  {
+    "title": "Conduct usability test",
+    "subtitle": "Product feedback",
+    "status": "pending",
+    "due_date": "2025-05-22",
+    "priority": "medium",
+    "time_spent": "0h",
+    "time_estimation": "2h"
+  },
+  {
+    "title": "Write unit tests",
+    "subtitle": "Module: AuthService",
+    "status": "in progress",
+    "due_date": "2025-05-11",
+    "priority": "high",
+    "time_spent": "1.5h",
+    "time_estimation": "4h"
+  },
+  {
+    "title": "Fix CSS issues in Firefox",
+    "subtitle": "Cross-browser testing",
+    "status": "complete",
+    "due_date": "2025-05-05",
+    "priority": "medium",
+    "time_spent": "2h",
+    "time_estimation": "2h"
+  },
+  {
+    "title": "Create newsletter layout",
+    "subtitle": "Marketing team",
+    "status": "overdue",
+    "due_date": "2025-05-08",
+    "priority": "low",
+    "time_spent": "1h",
+    "time_estimation": "3h"
+  },
+  {
+    "title": "Deploy to staging",
+    "subtitle": "CI/CD Pipeline",
+    "status": "complete",
+    "due_date": "2025-05-06",
+    "priority": "critical",
+    "time_spent": "0.5h",
+    "time_estimation": "1h"
+  },
+  {
+    "title": "Test dark mode",
+    "subtitle": "UI Consistency",
+    "status": "pending",
+    "due_date": "2025-05-19",
+    "priority": "low",
+    "time_spent": "0h",
+    "time_estimation": "1h"
+  },
+  {
+    "title": "Write blog post",
+    "subtitle": "Product launch recap",
+    "status": "pending",
+    "due_date": "2025-05-21",
+    "priority": "medium",
+    "time_spent": "0h",
+    "time_estimation": "3h"
+  },
+  {
+    "title": "Audit accessibility",
+    "subtitle": "WCAG standards",
+    "status": "in progress",
+    "due_date": "2025-05-14",
+    "priority": "high",
+    "time_spent": "1h",
+    "time_estimation": "4h"
+  },
+  {
+    "title": "Create test data",
+    "subtitle": "QA preparation",
+    "status": "complete",
+    "due_date": "2025-05-07",
+    "priority": "medium",
+    "time_spent": "1h",
+    "time_estimation": "1.5h"
+  },
+  {
+    "title": "Analyze user metrics",
+    "subtitle": "April traffic report",
+    "status": "pending",
+    "due_date": "2025-05-17",
+    "priority": "low",
+    "time_spent": "0h",
+    "time_estimation": "2h"
+  },
+  {
+    "title": "Refactor user model",
+    "subtitle": "Codebase cleanup",
+    "status": "in progress",
+    "due_date": "2025-05-12",
+    "priority": "medium",
+    "time_spent": "1h",
+    "time_estimation": "3h"
+  },
+  {
+    "title": "Design 404 page",
+    "subtitle": "UX polish",
+    "status": "pending",
+    "due_date": "2025-05-23",
+    "priority": "low",
+    "time_spent": "0h",
+    "time_estimation": "1h"
+  },
+  {
+    "title": "Add new user roles",
+    "subtitle": "Admin panel update",
+    "status": "in progress",
+    "due_date": "2025-05-13",
+    "priority": "high",
+    "time_spent": "2h",
+    "time_estimation": "3h"
+  },
+  {
+    "title": "Generate PDF reports",
+    "subtitle": "Export feature",
+    "status": "pending",
+    "due_date": "2025-05-18",
+    "priority": "medium",
+    "time_spent": "0h",
+    "time_estimation": "2h"
+  },
+  {
+    "title": "Cleanup feature flags",
+    "subtitle": "Code hygiene",
+    "status": "complete",
+    "due_date": "2025-05-03",
+    "priority": "low",
+    "time_spent": "0.5h",
+    "time_estimation": "1h"
+  },
+  {
+    "title": "Add Google Analytics",
+    "subtitle": "Marketing tools",
+    "status": "complete",
+    "due_date": "2025-05-04",
+    "priority": "medium",
+    "time_spent": "1h",
+    "time_estimation": "1.5h"
+  },
+  {
+    "title": "Write integration tests",
+    "subtitle": "Payment & Checkout",
+    "status": "in progress",
+    "due_date": "2025-05-16",
+    "priority": "high",
+    "time_spent": "2h",
+    "time_estimation": "5h"
+  },
+  {
+    "title": "Update dependencies",
+    "subtitle": "Security patching",
+    "status": "pending",
+    "due_date": "2025-05-19",
+    "priority": "medium",
+    "time_spent": "0h",
+    "time_estimation": "1h"
+  },
+  {
+    "title": "Run Lighthouse audit",
+    "subtitle": "Performance check",
+    "status": "pending",
+    "due_date": "2025-05-20",
+    "priority": "low",
+    "time_spent": "0h",
+    "time_estimation": "1h"
+  },
+  {
+    "title": "Confirm staging deploy",
+    "subtitle": "Checklist before QA",
+    "status": "in progress",
+    "due_date": "2025-05-11",
+    "priority": "medium",
+    "time_spent": "1h",
+    "time_estimation": "2h"
+  }
+]

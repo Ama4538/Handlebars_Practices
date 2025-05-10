@@ -1,9 +1,11 @@
+![Default Screenshot](screenshot/Member_Card_SS.png)
+
 # Member Card
 Render a list of team members from local JSON into HTML using handlebarJS
 
 ## Tools
 Handlebar.JS
-HTML, CSS
+HTML, CSS, JS
 
 ## How
 - Main.js initally fetches team data from data.json
@@ -11,7 +13,7 @@ HTML, CSS
 - Lastly, injects the rendered HTML into #team_container
 
 ## Sample data
-    ```bash
+    ```
     {
         "name": "Tanya Brooks",
         "role": "Marketing Strategist",
@@ -21,10 +23,12 @@ HTML, CSS
     ```
 
 ## Structure
-/member-card
-│
-├── index.html          # Main HTML file with template placeholder
-├── style.css           # Card styling
-├── main.js             # JS logic: fetch, compile, render
-├── data.json           # JSON with team data
-├── /images             # Team member headshots
+    ```
+    /member-card
+    │
+    ├── index.html          # Main HTML file with template placeholder
+    ├── style.css           # Card styling
+    ├── main.js             # JS logic: fetch, compile, render
+    ├── data.json           # JSON with team data
+    ├── /images             # Team member headshots
+    ```
