@@ -31,4 +31,5 @@ HTML, CSS, JS
 ├── main.js             # JS logic: fetch, compile, render
 ├── data.json           # JSON with team data
 ├── /images             # Team member headshots
+├── /screenshot         # Contains screenshot of the mini-project
 ```
