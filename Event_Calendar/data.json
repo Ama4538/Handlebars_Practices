@@ -1,0 +1,1943 @@
+[
+    {
+        "month": "December 2024",
+        "days": [
+            {
+                "date": 2,
+                "events": [
+                    {
+                        "title": "Marketing Strategy Workshop",
+                        "type": "Workshop"
+                    },
+                    {
+                        "title": "Team Lunch",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 5,
+                "events": [
+                    {
+                        "title": "Project Alpha Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 10,
+                "events": [
+                    {
+                        "title": "Client Presentation Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 12,
+                "events": [
+                    {
+                        "title": "Holiday Office Party Planning",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Sarah's Birthday",
+                        "type": "Birthday"
+                    }
+                ]
+            },
+            {
+                "date": 18,
+                "events": [
+                    {
+                        "title": "Year-End Review Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 20,
+                "events": [
+                    {
+                        "title": "Company-Wide Holiday Announcement",
+                        "type": "Announcement"
+                    }
+                ]
+            },
+            {
+                "date": 24,
+                "events": [
+                    {
+                        "title": "Christmas Eve Potluck",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 25,
+                "events": [
+                    {
+                        "title": "Christmas Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 26,
+                "events": [
+                    {
+                        "title": "Personal Errands",
+                        "type": "Personal"
+                    }
+                ]
+            },
+            {
+                "date": 27,
+                "events": [
+                    {
+                        "title": "Book Club Meeting",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 28,
+                "events": [
+                    {
+                        "title": "Project Beta Workshop",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 29,
+                "events": [
+                    {
+                        "title": "Grocery Shopping",
+                        "type": "Personal"
+                    }
+                ]
+            },
+            {
+                "date": 30,
+                "events": [
+                    {
+                        "title": "New Year's Eve Prep",
+                        "type": "Personal"
+                    }
+                ]
+            },
+            {
+                "date": 31,
+                "events": [
+                    {
+                        "title": "New Year's Eve Party",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 7,
+                "events": [
+                    {
+                        "title": "Team Brainstorming Session",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 19,
+                "events": [
+                    {
+                        "title": "Submit Quarterly Report",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 22,
+                "events": [
+                    {
+                        "title": "Volunteer Event",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 29,
+                "events": [
+                    {
+                        "title": "Review Q4 Performance",
+                        "type": "Meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "January 2025",
+        "days": [
+            {
+                "date": 1,
+                "events": [
+                    {
+                        "title": "New Year's Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 3,
+                "events": [
+                    {
+                        "title": "Project Alpha Post-Mortem",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 6,
+                "events": [
+                    {
+                        "title": "Planning Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 10,
+                "events": [
+                    {
+                        "title": "Workshop: Time Management",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 13,
+                "events": [
+                    {
+                        "title": "Client Check-in",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Budget Proposal Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 18,
+                "events": [
+                    {
+                        "title": "Team Building Activity",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 20,
+                "events": [
+                    {
+                        "title": "Company Announcement",
+                        "type": "Announcement"
+                    }
+                ]
+            },
+            {
+                "date": 22,
+                "events": [
+                    {
+                        "title": "Personal Appointment",
+                        "type": "Personal"
+                    }
+                ]
+            },
+            {
+                "date": 25,
+                "events": [
+                    {
+                        "title": "Weekend Getaway Planning",
+                        "type": "Personal"
+                    }
+                ]
+            },
+            {
+                "date": 28,
+                "events": [
+                    {
+                        "title": "Project Beta Kick-off Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 31,
+                "events": [
+                    {
+                        "title": "Monthly Report Due",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 5,
+                "events": [
+                    {
+                        "title": "Informal Coffee Catch-up",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 9,
+                "events": [
+                    {
+                        "title": "Presentation Practice",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 17,
+                "events": [
+                    {
+                        "title": "John's Birthday",
+                        "type": "Birthday"
+                    }
+                ]
+            },
+            {
+                "date": 23,
+                "events": [
+                    {
+                        "title": "Online Course Begins",
+                        "type": "Personal"
+                    }
+                ]
+            },
+            {
+                "date": 26,
+                "events": [
+                    {
+                        "title": "Internal Training Session",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 29,
+                "events": [
+                    {
+                        "title": "Social Gathering",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 2,
+                "events": [
+                    {
+                        "title": "Team Retrospective",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 12,
+                "events": [
+                    {
+                        "title": "Marketing Campaign Launch",
+                        "type": "Announcement"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "February 2025",
+        "days": [
+            {
+                "date": 2,
+                "events": [
+                    {
+                        "title": "Groundhog Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 5,
+                "events": [
+                    {
+                        "title": "Project Beta Progress Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 7,
+                "events": [
+                    {
+                        "title": "Sales Team Workshop",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 10,
+                "events": [
+                    {
+                        "title": "Client Proposal Review",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 14,
+                "events": [
+                    {
+                        "title": "Valentine's Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 17,
+                "events": [
+                    {
+                        "title": "President's Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 20,
+                "events": [
+                    {
+                        "title": "Town Hall Meeting",
+                        "type": "Announcement"
+                    }
+                ]
+            },
+            {
+                "date": 23,
+                "events": [
+                    {
+                        "title": "Weekend Trip",
+                        "type": "Personal"
+                    }
+                ]
+            },
+            {
+                "date": 26,
+                "events": [
+                    {
+                        "title": "New Initiative Brainstorm",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 28,
+                "events": [
+                    {
+                        "title": "Project Gamma Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 3,
+                "events": [
+                    {
+                        "title": "Casual Friday Social",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 9,
+                "events": [
+                    {
+                        "title": "Photography Workshop",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 12,
+                "events": [
+                    {
+                        "title": "Lisa's Birthday",
+                        "type": "Birthday"
+                    }
+                ]
+            },
+            {
+                "date": 19,
+                "events": [
+                    {
+                        "title": "Doctor's Appointment",
+                        "type": "Personal"
+                    }
+                ]
+            },
+            {
+                "date": 22,
+                "events": [
+                    {
+                        "title": "Community Event",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 25,
+                "events": [
+                    {
+                        "title": "Internal Audit Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 1,
+                "events": [
+                    {
+                        "title": "Quarterly Planning Session",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Submit Expense Reports",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 24,
+                "events": [
+                    {
+                        "title": "Team Lunch",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 27,
+                "events": [
+                    {
+                        "title": "Product Update Announcement",
+                        "type": "Announcement"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "March 2025",
+        "days": [
+            {
+                "date": 3,
+                "events": [
+                    {
+                        "title": "Team Project Kickoff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 8,
+                "events": [
+                    {
+                        "title": "International Women's Day Celebration",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 10,
+                "events": [
+                    {
+                        "title": "Workshop: Effective Communication",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 14,
+                "events": [
+                    {
+                        "title": "Project Alpha - Phase 1 Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 17,
+                "events": [
+                    {
+                        "title": "St. Patrick's Day Parade",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 20,
+                "events": [
+                    {
+                        "title": "Spring Equinox Gathering",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 22,
+                "events": [
+                    {
+                        "title": "Community Cleanup Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 25,
+                "events": [
+                    {
+                        "title": "Budget Review Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 28,
+                "events": [
+                    {
+                        "title": "Departmental Training",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 31,
+                "events": [
+                    {
+                        "title": "End of Quarter 1 Reports Due",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 5,
+                "events": [
+                    {
+                        "title": "Sarah's Birthday",
+                        "type": "Birthday"
+                    }
+                ]
+            },
+            {
+                "date": 12,
+                "events": [
+                    {
+                        "title": "Company Announcement: New Hire",
+                        "type": "Announcement"
+                    }
+                ]
+            },
+            {
+                "date": 19,
+                "events": [
+                    {
+                        "title": "Team Lunch",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 26,
+                "events": [
+                    {
+                        "title": "Client Presentation",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 29,
+                "events": [
+                    {
+                        "title": "Personal Appointment",
+                        "type": "Personal"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "April 2025",
+        "days": [
+            {
+                "date": 4,
+                "events": [
+                    {
+                        "title": "Workshop: Time Management",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 7,
+                "events": [
+                    {
+                        "title": "Project Beta - Kickoff",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 11,
+                "events": [
+                    {
+                        "title": "Good Friday",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 13,
+                "events": [
+                    {
+                        "title": "Easter Sunday",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Q2 Sales Forecast Due",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 18,
+                "events": [
+                    {
+                        "title": "Earth Day Celebration",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 21,
+                "events": [
+                    {
+                        "title": "Staff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 24,
+                "events": [
+                    {
+                        "title": "Workshop: Conflict Resolution",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 25,
+                "events": [
+                    {
+                        "title": "Administrative Professionals Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 28,
+                "events": [
+                    {
+                        "title": "Project Beta - Phase 1 Review",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 29,
+                "events": [
+                    {
+                        "title": "Team Building Activity",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 5,
+                "events": [
+                    {
+                        "title": "Cinco de Mayo",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 12,
+                "events": [
+                    {
+                        "title": "Mother's Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 19,
+                "events": [
+                    {
+                        "title": "Meeting with John",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 26,
+                "events": [
+                    {
+                        "title": "Memorial Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 30,
+                "events": [
+                    {
+                        "title": "Product Launch",
+                        "type": "Announcement"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "May 2025",
+        "days": [
+            {
+                "date": 2,
+                "events": [
+                    {
+                        "title": "Workshop: Presentation Skills",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 5,
+                "events": [
+                    {
+                        "title": "Project Gamma Kickoff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 8,
+                "events": [
+                    {
+                        "title": "VE Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 11,
+                "events": [
+                    {
+                        "title": "Mother's Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Project Alpha - Final Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 18,
+                "events": [
+                    {
+                        "title": "Armed Forces Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 20,
+                "events": [
+                    {
+                        "title": "Staff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 22,
+                "events": [
+                    {
+                        "title": "Workshop: Diversity & Inclusion",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 26,
+                "events": [
+                    {
+                        "title": "Memorial Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 28,
+                "events": [
+                    {
+                        "title": "Project Beta - Phase 2 Review",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 29,
+                "events": [
+                    {
+                        "title": "Office Potluck",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 1,
+                "events": [
+                    {
+                        "title": "New Month Planning",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 6,
+                "events": [
+                    {
+                        "title": "Company Picnic",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 13,
+                "events": [
+                    {
+                        "title": "Meeting with Board",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 20,
+                "events": [
+                    {
+                        "title": "Juneteenth",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 27,
+                "events": [
+                    {
+                        "title": "Quarterly Review",
+                        "type": "Meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "June 2025",
+        "days": [
+            {
+                "date": 2,
+                "events": [
+                    {
+                        "title": "Workshop: Leadership Skills",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 6,
+                "events": [
+                    {
+                        "title": "Company Picnic",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 9,
+                "events": [
+                    {
+                        "title": "Project Delta Kickoff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 14,
+                "events": [
+                    {
+                        "title": "Flag Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Father's Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 20,
+                "events": [
+                    {
+                        "title": "Juneteenth",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 21,
+                "events": [
+                    {
+                        "title": "Summer Solstice",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 22,
+                "events": [
+                    {
+                        "title": "Staff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 26,
+                "events": [
+                    {
+                        "title": "Project Beta - Final Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 27,
+                "events": [
+                    {
+                        "title": "Workshop: Customer Service",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 30,
+                "events": [
+                    {
+                        "title": "End of Q2 Reports Due",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 3,
+                "events": [
+                    {
+                        "title": "Independence Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 10,
+                "events": [
+                    {
+                        "title": "Meeting with Marketing",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 17,
+                "events": [
+                    {
+                        "title": "Summer Outing",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 24,
+                "events": [
+                    {
+                        "title": "Mid-Year Review",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 31,
+                "events": [
+                    {
+                        "title": "Festival",
+                        "type": "Social"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "July 2025",
+        "days": [
+            {
+                "date": 4,
+                "events": [
+                    {
+                        "title": "Independence Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 7,
+                "events": [
+                    {
+                        "title": "Project Epsilon Kickoff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 11,
+                "events": [
+                    {
+                        "title": "Bastille Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Project Gamma - Phase 1 Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 17,
+                "events": [
+                    {
+                        "title": "Workshop: Project Management",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 21,
+                "events": [
+                    {
+                        "title": "Staff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 24,
+                "events": [
+                    {
+                        "title": "Parents' Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 28,
+                "events": [
+                    {
+                        "title": "System Upgrade Announcement",
+                        "type": "Announcement"
+                    }
+                ]
+            },
+            {
+                "date": 29,
+                "events": [
+                    {
+                        "title": "Workshop: Negotiation Skills",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 1,
+                "events": [
+                    {
+                        "title": "New Month Planning",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 8,
+                "events": [
+                    {
+                        "title": "International Cat Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Meeting with Suppliers",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 22,
+                "events": [
+                    {
+                        "title": "Company Presentation",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 29,
+                "events": [
+                    {
+                        "title": "Personal Appointment",
+                        "type": "Personal"
+                    }
+                ]
+            },
+            {
+                "date": 31,
+                "events": [
+                    {
+                        "title": "End of Summer",
+                        "type": "Social"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "August 2025",
+        "days": [
+            {
+                "date": 1,
+                "events": [
+                    {
+                        "title": "Workshop: Data Analysis",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 4,
+                "events": [
+                    {
+                        "title": "Project Zeta Kickoff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 9,
+                "events": [
+                    {
+                        "title": "Women's Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Project Gamma - Phase 2 Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 19,
+                "events": [
+                    {
+                        "title": "World Photography Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 21,
+                "events": [
+                    {
+                        "title": "Senior Management Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 25,
+                "events": [
+                    {
+                        "title": "Workshop: Sales Training",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 26,
+                "events": [
+                    {
+                        "title": "National Dog Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 28,
+                "events": [
+                    {
+                        "title": "Company Anniversary",
+                        "type": "Announcement"
+                    }
+                ]
+            },
+            {
+                "date": 1,
+                "events": [
+                    {
+                        "title": "New Month Planning",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 5,
+                "events": [
+                    {
+                        "title": "Labor Day",
+                        "type": "Holiday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "September 2025",
+        "days": [
+            {
+                "date": 1,
+                "events": [
+                    {
+                        "title": "Labor Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 4,
+                "events": [
+                    {
+                        "title": "Workshop: Technical Training",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 8,
+                "events": [
+                    {
+                        "title": "Project Eta Kickoff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Project Gamma - Final Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 16,
+                "events": [
+                    {
+                        "title": "Mexican Independence Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 18,
+                "events": [
+                    {
+                        "title": "Staff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 22,
+                "events": [
+                    {
+                        "title": "Autumnal Equinox",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 25,
+                "events": [
+                    {
+                        "title": "Workshop: HR Policies",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 29,
+                "events": [
+                    {
+                        "title": "Q3 Performance Reviews",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 30,
+                "events": [
+                    {
+                        "title": "End of Q3 Reports Due",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 3,
+                "events": [
+                    {
+                        "title": "New Month Planning",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 10,
+                "events": [
+                    {
+                        "title": "World Mental Health Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 17,
+                "events": [
+                    {
+                        "title": "Boss's Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 24,
+                "events": [
+                    {
+                        "title": "United Nations Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 31,
+                "events": [
+                    {
+                        "title": "Halloween",
+                        "type": "Holiday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "October 2025",
+        "days": [
+            {
+                "date": 3,
+                "events": [
+                    {
+                        "title": "Workshop: Marketing Strategy",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 6,
+                "events": [
+                    {
+                        "title": "Project Theta Kickoff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 10,
+                "events": [
+                    {
+                        "title": "World Mental Health Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 13,
+                "events": [
+                    {
+                        "title": "Columbus Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Project Eta - Phase 1 Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 16,
+                "events": [
+                    {
+                        "title": "World Food Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 20,
+                "events": [
+                    {
+                        "title": "Staff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 24,
+                "events": [
+                    {
+                        "title": "United Nations Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 27,
+                "events": [
+                    {
+                        "title": "Workshop: Finance Basics",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 31,
+                "events": [
+                    {
+                        "title": "Halloween",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 7,
+                "events": [
+                    {
+                        "title": "Daylight Savings",
+                        "type": "Announcement"
+                    }
+                ]
+            },
+            {
+                "date": 11,
+                "events": [
+                    {
+                        "title": "Veterans Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 18,
+                "events": [
+                    {
+                        "title": "Meeting with Investors",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 25,
+                "events": [
+                    {
+                        "title": "Thanksgiving",
+                        "type": "Holiday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "November 2025",
+        "days": [
+            {
+                "date": 1,
+                "events": [
+                    {
+                        "title": "New Month Planning",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 7,
+                "events": [
+                    {
+                        "title": "Daylight Saving Ends",
+                        "type": "Announcement"
+                    }
+                ]
+            },
+            {
+                "date": 11,
+                "events": [
+                    {
+                        "title": "Veterans Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 14,
+                "events": [
+                    {
+                        "title": "World Diabetes Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Project Eta - Phase 2 Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 18,
+                "events": [
+                    {
+                        "title": "Staff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 20,
+                "events": [
+                    {
+                        "title": "Transgender Day of Remembrance",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 24,
+                "events": [
+                    {
+                        "title": "Black Friday",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 25,
+                "events": [
+                    {
+                        "title": "Thanksgiving Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 28,
+                "events": [
+                    {
+                        "title": "Workshop: Year-End Planning",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 1,
+                "events": [
+                    {
+                        "title": "New Month Planning",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 8,
+                "events": [
+                    {
+                        "title": "Pearl Harbor Remembrance",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Project Review",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 22,
+                "events": [
+                    {
+                        "title": "Winter Solstice",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 25,
+                "events": [
+                    {
+                        "title": "Christmas",
+                        "type": "Holiday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "month": "December 2025",
+        "days": [
+            {
+                "date": 1,
+                "events": [
+                    {
+                        "title": "World AIDS Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 4,
+                "events": [
+                    {
+                        "title": "Workshop: Conflict Resolution",
+                        "type": "Workshop"
+                    }
+                ]
+            },
+            {
+                "date": 8,
+                "events": [
+                    {
+                        "title": "Pearl Harbor Remembrance Day",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 12,
+                "events": [
+                    {
+                        "title": "Project Iota - Kickoff",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 15,
+                "events": [
+                    {
+                        "title": "Project Eta - Final Deadline",
+                        "type": "Deadline"
+                    }
+                ]
+            },
+            {
+                "date": 18,
+                "events": [
+                    {
+                        "title": "Staff Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 21,
+                "events": [
+                    {
+                        "title": "Winter Solstice",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 25,
+                "events": [
+                    {
+                        "title": "Christmas Day",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 26,
+                "events": [
+                    {
+                        "title": "Kwanzaa Begins",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 29,
+                "events": [
+                    {
+                        "title": "Year-End Review Meeting",
+                        "type": "Meeting"
+                    }
+                ]
+            },
+            {
+                "date": 31,
+                "events": [
+                    {
+                        "title": "New Year's Eve",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 3,
+                "events": [
+                    {
+                        "title": "Personal Appointment",
+                        "type": "Personal"
+                    }
+                ]
+            },
+            {
+                "date": 10,
+                "events": [
+                    {
+                        "title": "Team Dinner",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 17,
+                "events": [
+                    {
+                        "title": "Company Holiday Party",
+                        "type": "Social"
+                    }
+                ]
+            },
+            {
+                "date": 24,
+                "events": [
+                    {
+                        "title": "Christmas Eve",
+                        "type": "Holiday"
+                    }
+                ]
+            },
+            {
+                "date": 31,
+                "events": [
+                    {
+                        "title": "End of Year Reports",
+                        "type": "Deadline"
+                    }
+                ]
+            }
+        ]
+    }
+]

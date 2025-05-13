@@ -17,25 +17,25 @@ HTML, CSS, JS
 - Lastly, injects the rendered HTML into their respective containers (info_container, total_container, task_container)
 
 ## Sample data
-    ```
-    {
-        "title": "Design login UI",
-        "subtitle": "Frontend Sprint",
-        "status": "complete",
-        "due_date": "2025-05-01",
-        "priority": "medium",
-        "time_spent": "4h",
-        "time_estimation": "4h"
-    }
-    ```
+```
+{
+    "title": "Design login UI",
+    "subtitle": "Frontend Sprint",
+    "status": "complete",
+    "due_date": "2025-05-01",
+    "priority": "medium",
+    "time_spent": "4h",
+    "time_estimation": "4h"
+}
+```
 
 ## Structure
-    ```
-    /Task_Dashboard
-    │
-    ├── index.html          # Main HTML file with template placeholder
-    ├── style.css           # Styling
-    ├── main.js             # JS logic: fetch, compile, render
-    ├── data.json           # JSON with data
-    ├── /screenshot         # Contains screenshot of the mini-project
-    ```
+```
+/Task_Dashboard
+│
+├── index.html          # Main HTML file with template placeholder
+├── style.css           # Styling
+├── main.js             # JS logic: fetch, compile, render
+├── data.json           # JSON with data
+├── /screenshot         # Contains screenshot of the mini-project
+```

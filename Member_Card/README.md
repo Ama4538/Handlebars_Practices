@@ -13,22 +13,22 @@ HTML, CSS, JS
 - Lastly, injects the rendered HTML into #team_container
 
 ## Sample data
-    ```
-    {
-        "name": "Tanya Brooks",
-        "role": "Marketing Strategist",
-        "statement": "Connecting products to people with precision.",
-        "image": "tanya_brooks.jpg"
-    }
-    ```
+```
+{
+    "name": "Tanya Brooks",
+    "role": "Marketing Strategist",
+    "statement": "Connecting products to people with precision.",
+    "image": "tanya_brooks.jpg"
+}
+```
 
 ## Structure
-    ```
-    /member-card
-    │
-    ├── index.html          # Main HTML file with template placeholder
-    ├── style.css           # Card styling
-    ├── main.js             # JS logic: fetch, compile, render
-    ├── data.json           # JSON with team data
-    ├── /images             # Team member headshots
-    ```
+```
+/member-card
+│
+├── index.html          # Main HTML file with template placeholder
+├── style.css           # Card styling
+├── main.js             # JS logic: fetch, compile, render
+├── data.json           # JSON with team data
+├── /images             # Team member headshots
+```
