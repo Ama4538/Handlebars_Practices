@@ -1,0 +1,104 @@
+{
+    "name": "Taylor Brooks",
+    "id": 847362,
+    "status": "Undergraduate",
+    "year": "Senior",
+    "classes": [
+        {
+            "semester": "Fall 2025",
+            "department": "CS",
+            "classNumber": 450,
+            "professor": "Dr. Reed",
+            "grade": 88,
+            "credit": 3
+        },
+        {
+            "semester": "Fall 2025",
+            "department": "MATH",
+            "classNumber": 310,
+            "professor": "Dr. Singh",
+            "grade": 92,
+            "credit": 4
+        },
+        {
+            "semester": "Fall 2025",
+            "department": "PHIL",
+            "classNumber": 210,
+            "professor": "Prof. Allen",
+            "grade": "A",
+            "credit": 3
+        },
+        {
+            "semester": "Spring 2025",
+            "department": "CS",
+            "classNumber": 330,
+            "professor": "Dr. Wong",
+            "grade": 95,
+            "credit": 3
+        },
+        {
+            "semester": "Spring 2025",
+            "department": "ENGL",
+            "classNumber": 202,
+            "professor": "Dr. Morales",
+            "grade": "B+",
+            "credit": 3
+        },
+        {
+            "semester": "Spring 2025",
+            "department": "PSYC",
+            "classNumber": 101,
+            "professor": "Prof. Jenkins",
+            "grade": 89,
+            "credit": 3
+        },
+        {
+            "semester": "Fall 2024",
+            "department": "CS",
+            "classNumber": 220,
+            "professor": "Dr. Lee",
+            "grade": 91,
+            "credit": 3
+        },
+        {
+            "semester": "Fall 2024",
+            "department": "MATH",
+            "classNumber": 210,
+            "professor": "Dr. Zhao",
+            "grade": "A-",
+            "credit": 3
+        },
+        {
+            "semester": "Spring 2024",
+            "department": "ENGL",
+            "classNumber": 101,
+            "professor": "Prof. Mitchell",
+            "grade": "A+",
+            "credit": 3
+        },
+        {
+            "semester": "Spring 2024",
+            "department": "HIST",
+            "classNumber": 120,
+            "professor": "Dr. O'Connor",
+            "grade": 85,
+            "credit": 3
+        },
+        {
+            "semester": "Summer 2024",
+            "department": "BIO",
+            "classNumber": 105,
+            "professor": "Dr. Kaur",
+            "grade": 90,
+            "credit": 4
+        },
+        {
+            "semester": "Summer 2023",
+            "department": "ECON",
+            "classNumber": 101,
+            "professor": "Prof. Daniels",
+            "grade": "B",
+            "credit": 3
+        }
+    ]
+}

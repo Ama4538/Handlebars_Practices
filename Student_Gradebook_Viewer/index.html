@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Gradebook Viewer</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <main>
+        <div class="island">
+            <header id="student_info_container"></header>
+            <section class="all_classes">
+                <div class="all_classes_header">
+                    <Span class="title">All Classes</Span>
+                    <button class="minimizes_button" value="all_classes_display" data-open="true"></button>
+                </div>
+                <div id="all_classes_display" data-active="true">
+                    <div id="all_classes_info_container"></div>
+                    <ul class="class_format_display title">
+                        <li>Class</li>
+                        <li>Professor</li>
+                        <li>Grade</li>
+                        <li>Credit</li>
+                        <li>Term</li>
+                    </ul>
+                    <ul id="all_classes_container"></ul>
+                </div>
+            </section>
+            <section class="all_classes">
+                <div class="all_classes_header">
+                    <Span class="title">Filtered Classes</Span>
+                    <div id="filter_menu">
+                        <div id="filter_name"></div>
+                        <ul id="filter_drop_menu" data-active="false"></ul>
+                    </div>
+                    <button class="minimizes_button" value="filtered_classes_display" data-open="true"></button>
+                </div>
+                <div id="filtered_classes_display" data-active="true">
+                    <div id="filtered_classes_info_container"></div>
+                    <ul class="class_format_display title">
+                        <li>Class</li>
+                        <li>Professor</li>
+                        <li>Grade</li>
+                        <li>Credit</li>
+                        <li>Term</li>
+                    </ul>
+                    <ul id="filtered_classes_container"></ul>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <script id="student_info_template" type="text/x-handlebars-template">
+        <h1 class="title">{{name}} ({{id}})</h1>
+        <h2 class="sub_title">{{status}} - {{level}}</h2>
+    </script>
+
+    <script id="all_class_info_template" type="text/x-handlebars-template">
+        {{> ClassInfo text = pre_text grades = classes_grade}}
+    </script>
+
+    <script id="all_classes_container_template" type="text/x-handlebars-template">
+        {{#each this}}
+            {{> Class this}}
+        {{/each}}
+    </script>
+
+    <script id="filter_menu_template" type="text/x-handlebars-template">
+        {{#each this}}
+            <li><button class="filter_button sub_text" value="{{semester}}" data-selected = "false">{{semester}}</button></li>
+        {{/each}}
+    </script>
+
+    <script id="filter_menu_name_template" type="text/x-handlebars-template">
+        <button class="text" id="filter_button_name">{{filter}}</button>
+    </script>
+
+    <script id="filter_class_info_template" type="text/x-handlebars-template">
+        {{> ClassInfo text = pre_text grades = classes_grade}}
+    </script>
+
+    <script id="filter_classes_container_template" type="text/x-handlebars-template">
+        {{#each this}}
+            {{> Class this}}
+        {{/each}}
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.min.js"></script>
+    <script src="./main.js"></script>
+</body>
+
+</html>
